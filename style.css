@@ -17,7 +17,7 @@ h2{
     color: yellow;
 }
 
-.yellow h2{
+#yellow h2{
     color: green;
 }
 
@@ -43,15 +43,15 @@ height: 450px;
     position: relative;
 }
 
-.red{
+#red{
     background-color: red;
 }
 
-.green{
+#green{
     background-color: green;
 }
 
-.yellow{
+#yellow{
     background-color: yellow;
 }
 
@@ -68,5 +68,12 @@ height: 450px;
     position: absolute;
     top: 30px;
     right: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
