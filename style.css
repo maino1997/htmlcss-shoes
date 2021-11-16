@@ -21,6 +21,7 @@ h2{
     color: green;
 }
 
+
 li{
     display: inline-block;
     padding: 10px 15px 10px 15px;
@@ -65,7 +66,8 @@ height: 450px;
 
 .links{
     height: 70px;
-    position: absolute;
+    position: fixed;
+    z-index: 1;
     top: 30px;
     right: 20px;
 }
@@ -74,6 +76,8 @@ a{
     text-decoration: none;
     font-weight: bolder;
     color: black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    width: 100%;
 }
 
