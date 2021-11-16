@@ -21,6 +21,14 @@ h2{
     color: green;
 }
 
+li{
+    display: inline-block;
+    padding: 10px 15px 10px 15px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 10px 0 10px;
+}
+
 /* Boxes */
 
 .box{
@@ -45,5 +53,12 @@ h2{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.links{
+    height: 70px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
 }
 
