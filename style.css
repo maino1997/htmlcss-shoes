@@ -13,7 +13,7 @@
 /* Utlities */
 
 h2{
-    font-size: 70px;
+    font-size: 80px;
     color: yellow;
 }
 
@@ -29,7 +29,14 @@ li{
     margin: 0 10px 0 10px;
 }
 
+img{
+height: 450px;
+}
+
 /* Boxes */
+.yellow img{
+    height: 370px;
+}
 
 .box{
     height: 100vh;
@@ -53,6 +60,7 @@ li{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
+    bottom: 50px;
 }
 
 .links{
