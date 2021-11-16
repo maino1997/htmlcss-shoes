@@ -10,6 +10,17 @@
     overflow: hidden;
 } */
 
+/* Utlities */
+
+h2{
+    font-size: 70px;
+    color: yellow;
+}
+
+.yellow h2{
+    color: green;
+}
+
 /* Boxes */
 
 .box{
@@ -36,7 +47,3 @@
     transform: translateX(-50%);
 }
 
-h2{
-    font-size: 70px;
-    color: yellow;
-}
