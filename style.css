@@ -75,7 +75,8 @@ a{
     text-decoration: none;
     font-weight: bolder;
     color: black;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Rubik Mono One;
+    font-size: 15px;
     height: 100%;
     width: 100%;
     padding: 10px 15px 10px 15px;
@@ -92,3 +93,4 @@ a:hover{
     border: 5px solid goldenrod;
     border-style: inset;
 }
+
