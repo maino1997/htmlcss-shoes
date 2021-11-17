@@ -9,6 +9,7 @@
 html{
     overflow: hidden;
     /* Serve per togliere la barra di scorrimento del Browser */
+    scroll-behavior: smooth;
 } 
 
 /* Utlities */
