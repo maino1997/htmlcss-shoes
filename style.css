@@ -95,3 +95,8 @@ a:hover{
     border-style: inset;
 }
 
+ img:hover{
+    filter:drop-shadow(10px 10px 15px black);
+    transform: scale(1.1);
+}
+
